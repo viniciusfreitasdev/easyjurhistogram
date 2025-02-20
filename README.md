@@ -72,4 +72,5 @@ Página HTML contendo um gráfico de barras interativo com a distribuição temp
 - A qualidade do gráfico depende da precisão das datas nos documentos  
 - O uso do QuickChart.io requer conexão com internet  
 - Intervalos muito pequenos (dia) podem gerar gráficos com muitos elementos  
-- Mantenha as credenciais do ElasticSearch protegidas no arquivo `.env`  
+- Mantenha as credenciais do ElasticSearch protegidas no arquivo `.env`
+- O desenvolvedor não se responsabiliza por qualquer uso indevido.
